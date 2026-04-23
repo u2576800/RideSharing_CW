@@ -16,7 +16,7 @@ A blockchain-powered Uber-like ride-sharing application built on the Solana netw
 5. [Setup for New Developers](#setup-for-new-developers)
 6. [Building & Deploying Smart Contracts](#building--deploying-smart-contracts)
 7. [Running the Frontend](#running-the-frontend)
-8. [How to Use Zoya](#how-to-use-DRide)
+8. [How to Use DRide](#how-to-use-DRide)
 9. [Project Structure](#project-structure)
 10. [Troubleshooting](#troubleshooting)
 11. [Contributing](#contributing)
