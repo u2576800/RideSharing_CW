@@ -1,5 +1,8 @@
 # Zoya — Decentralized Ride-Sharing on Solana
 
+Smart Contract:- [View Contract Details](https://explorer.solana.com/address/2B6yAr7mK8zAKDviAipYZZi1BoWFXdNNCfwDvsmWSMcM?cluster=devnet)
+
+
 A blockchain-powered Uber-like ride-sharing application built on the Solana network. Zoya uses **two interoperating smart contracts** (Anchor programs) and a Next.js frontend with Phantom wallet integration. All ride data — profiles, requests, status transitions, ratings — is stored on-chain, making the system transparent, trustless, and tamper-proof.
 
 ---
@@ -13,7 +16,7 @@ A blockchain-powered Uber-like ride-sharing application built on the Solana netw
 5. [Setup for New Developers](#setup-for-new-developers)
 6. [Building & Deploying Smart Contracts](#building--deploying-smart-contracts)
 7. [Running the Frontend](#running-the-frontend)
-8. [How to Use Zoya](#how-to-use-zoya)
+8. [How to Use Zoya](#how-to-use-DRide)
 9. [Project Structure](#project-structure)
 10. [Troubleshooting](#troubleshooting)
 11. [Contributing](#contributing)
