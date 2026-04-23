@@ -203,7 +203,7 @@ Open http://localhost:3000 in a browser that has the Phantom extension installed
 
 ---
 
-## How to Use Zoya
+## How to Use DRide App
 
 ### As a Rider
 
